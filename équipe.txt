@@ -1,0 +1,11 @@
+nom1: William Bégin
+nom2: Raphael Bureau
+nom3: Jean Sébastien Labrie
+
+but: tp2
+
+
+
+
+William Bégin:
+tout le monde a fait sa pars
